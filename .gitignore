@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtualenv
+env/
+venv/
+ENV/
+*.egg-info/
+
+# Django static and media
+staticfiles/
+media/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Migrations (optional, keep if you want full control)
+**/migrations/*.pyc
+**/migrations/__pycache__/
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+
+# Env
+.env
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
